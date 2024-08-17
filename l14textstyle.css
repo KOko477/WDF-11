@@ -1,0 +1,30 @@
+.p{
+    color: blue;
+    text-align: justify;
+    
+}
+.ud{
+    text-decoration: underline;
+    color: chartreuse;
+}
+.lt{
+    text-decoration: line-through;
+    color: cornflowerblue;
+}
+.ov{
+    text-decoration: overline;
+    color: darkred;
+}
+a{
+    text-decoration: none;
+    font-size: x-large;
+}
+.tl{
+    letter-spacing: 5px;
+    line-height: 2;
+    text-align: justify;
+}
+.tsh{
+    color: blue;
+    text-shadow: -15px -11px 5px blue;
+}
